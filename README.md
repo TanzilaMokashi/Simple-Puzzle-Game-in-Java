@@ -1,1 +1,1 @@
-# Simple-Puzzle-Game-in-Java
+Sliding Puzzle Game
