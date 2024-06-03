@@ -1,4 +1,4 @@
-package com.zetcode;
+package com.Puzzle;
 
 import javax.imageio.ImageIO;
 import javax.swing.AbstractAction;
